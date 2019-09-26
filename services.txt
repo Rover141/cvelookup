@@ -1,0 +1,16 @@
+Nginx - 1.14.21
+Tomcat - 7.0.47
+Tomcat - 8.5.13
+Kafka - 2.1
+Kafka - 0.8.2.0
+Redis - 2.8.18
+Java - 1.8.0_91
+Haproxy - 1.5.4
+ProxySql - 2.0.1
+ProxySql - 2.0.3
+ELK - 6.3.2
+Netdata - 1.14.0-1
+Zabbix - 3.4.6
+Vault - 0.10.1
+Prometheus - 2.5.0-1
+
